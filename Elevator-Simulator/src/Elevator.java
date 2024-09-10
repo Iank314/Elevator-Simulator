@@ -1,10 +1,4 @@
-/*
- * Ian Kaufman
- * 115639955
- * ian.kaufman@stonybrook.edu
- * Homework 3
- * CSE214.R30
- */
+
 /**
  * The Elevator class represents an elevator in a building.
  * It maintains the current floor, state of the elevator, and the request being handled.
